@@ -11,12 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/realzaidiguy/week-14-burger.git"
   },
-  "author": "Ali Zaidi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/realzaidiguy/week-14-burger/issues"
-  },
-  "homepage": "https://github.com/realzaidiguy/week-14-burger#readme",
+  "author": "Lindsay Forrister",
+  "license": "",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
